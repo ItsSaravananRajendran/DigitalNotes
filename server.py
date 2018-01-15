@@ -13,9 +13,6 @@ def shift(data):
         x_, y_ = pts.split('+')
         x.append(x_)
         y.append(-1*int(y_))
-    #x.reverse()
-    #y.reverse()
-    print x,y
     base = plt.gca().transData
     rot = transforms.Affine2D().rotate_deg(-180)
 
