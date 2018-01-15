@@ -6,7 +6,7 @@ Things written in android will be transferred to PC, where it is displayed like 
 # How to use?
 
 1. Install the mobile app.
-2. ```bash git clone https://github.com/thunderbo1t/DigitalNotes.git ```
-3. ```bash cd DigitalNotes ```
+2. ``` git clone https://github.com/thunderbo1t/DigitalNotes.git ```
+3. ``` cd DigitalNotes ```
 4. Open the app in phone 
-5. ```bash python server.py ``` 
+5. ``` python server.py ``` 
