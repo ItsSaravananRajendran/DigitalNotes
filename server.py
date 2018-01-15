@@ -2,7 +2,6 @@ import socket
 import os
 import matplotlib.pyplot as plt
 from matplotlib import transforms
-import numpy as np
 
 def shift(data):
     data = data.replace("\n","")
